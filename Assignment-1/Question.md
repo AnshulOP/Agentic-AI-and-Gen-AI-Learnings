@@ -1,0 +1,1 @@
+Create a Simple Assistant that uses any LLM and should use Pydantic, when we ask about any product it should give you information about Product Name, Product Details adn Tentative Price in USD (integer). Use Chat Prompt Template.
